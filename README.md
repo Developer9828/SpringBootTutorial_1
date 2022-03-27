@@ -1,2 +1,2 @@
 # SpringBootTutorial_1
-Basic knowledge sharing on how to use spring boot document from scratch ;)
+Basic knowledge sharing on how to perform crud actions using a spring boot app;)
